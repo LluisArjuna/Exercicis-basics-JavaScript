@@ -53,7 +53,7 @@ const printNumbers = (numArray) => {
     }
 }
 
-var llista = [4, 5 -3, 98, 0, 23, 9];
+var llista = [4, 5, -3, 98, 0, 23, 9];
 
 printNumbers(llista);
 
